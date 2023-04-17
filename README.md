@@ -1,7 +1,7 @@
 # Real-Estate-House-Price-Prediction
 [Model Web Application (https://huggingface.co/spaces/saumyadwivedi/Real-Estate-House-Price-Prediction)](https://huggingface.co/spaces/saumyadwivedi/Real-Estate-House-Price-Prediction)
 ## Milestone 3
-The Jupyter Notebook Milestone3.ipynb showcases the model training with hyperparameters optimized using Optuna. This trained model was saved to a text file (model.txt) and deployed in a HuggingFace streamlit space. The code for the space is shown in app.py and can be accessed via the link above. The trained model from Milestone 2 (oldmodel.txt) was also added and deployed on the web application.
+The Jupyter Notebook Milestone3.ipynb showcases the model training with hyperparameters optimized using Optuna. This trained model was saved to a text file (model.txt) and deployed in a HuggingFace streamlit space. The code for the space is shown in app.py. It can be accessed via the link above. The trained model from Milestone 2 (oldmodel.txt) was also added and deployed on the web application.
 ## Milestone 2
 The Jupyter Notebook Milestone2.ipynb showcases the model training along with SHAP values and SHAP interaction values for it.
 ## Milestone 1
