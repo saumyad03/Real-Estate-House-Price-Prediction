@@ -1,0 +1,5 @@
+pandas
+lightgbm
+shap
+streamlit_shap
+matplotlib
