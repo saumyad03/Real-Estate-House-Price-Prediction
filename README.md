@@ -1,4 +1,10 @@
 # Real-Estate-House-Price-Prediction
+[Model Web Application (https://huggingface.co/spaces/saumyadwivedi/Real-Estate-House-Price-Prediction)](https://huggingface.co/spaces/saumyadwivedi/Real-Estate-House-Price-Prediction)
+## Milestone 3
+The Jupyter Notebook Milestone3.ipynb showcases the model training with hyperparameters optimized using Optuna. This trained model was saved to a text file (model.txt) and deployed in a HuggingFace streamlit space. The code for the space is shown in app.py. It can be accessed via the link above. The trained model from Milestone 2 (oldmodel.txt) was also added and deployed on the web application.
+## Milestone 2
+The Jupyter Notebook Milestone2.ipynb showcases the model training along with SHAP values and SHAP interaction values for it.
+## Milestone 1
 I already had WSL2 (for Intensive Linux Programming course) and VS Code IDE installed on my device prior to starting this project. To install Docker, I clicked on the link to bring me to a Docker Desktop download page. After downloading Docker Desktop installer, I waited for the appropriate packages to be installed by it and then restarted my device. I then created a Docker account and logged in on my Docker Desktop application after verifying my email. I tried following this tutorial (https://docs.docker.com/desktop/windows/wsl/) but everything was already properly configured on my machine. My Docker Desktop Application already utilized a WSL2 based engine and I already had Docker support enabled in my WSL 2 distro by default. I also had the WSL extension installed in VS Code already.
 
 This is an image showing the Docker Desktop app installed on my device for use.
